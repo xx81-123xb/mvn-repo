@@ -5,7 +5,7 @@
   <groupId>com.dupenghao</groupId>
   <artifactId>conmmon</artifactId>
   <version>1.0</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>conmmon</name>
   <url>http://maven.apache.org</url>
